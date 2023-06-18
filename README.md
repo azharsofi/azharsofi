@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/mohammad-azhar-sofi-398731211/**
 
-- 📄 Know about my experiences [https://azharsofinetlifyapp.netlify.app/](https://azharsofinetlifyapp.netlify.app/)
+- 📄 Know about me [https://azharsofinetlifyapp.netlify.app/](https://azharsofinetlifyapp.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
